@@ -1,0 +1,21 @@
+{
+	"name": "color-clock",
+	"version": "1.0.0",
+	"description": "Color clock app built with React.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo 'Hello World!'",
+     "start": "serve"
+	},
+	"keywords": [
+		"react",
+		"color",
+		"clock"
+	],
+	"author": "Bob Oyier",
+	"license": "ISC",
+	"dependencies": {
+		"date-fns": "^2.29.3",
+		"serve": "^14.1.2"
+	}
+}
